@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Myntra-HackerRamp-XCV/static/css/main.5a94a6c8.css",
+    "main.js": "/Myntra-HackerRamp-XCV/static/js/main.e3efdf40.js",
+    "static/js/453.56fc727d.chunk.js": "/Myntra-HackerRamp-XCV/static/js/453.56fc727d.chunk.js",
+    "index.html": "/Myntra-HackerRamp-XCV/index.html",
+    "main.5a94a6c8.css.map": "/Myntra-HackerRamp-XCV/static/css/main.5a94a6c8.css.map",
+    "main.e3efdf40.js.map": "/Myntra-HackerRamp-XCV/static/js/main.e3efdf40.js.map",
+    "453.56fc727d.chunk.js.map": "/Myntra-HackerRamp-XCV/static/js/453.56fc727d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a94a6c8.css",
+    "static/js/main.e3efdf40.js"
+  ]
+}
