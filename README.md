@@ -45,11 +45,11 @@ the folder on VS code and run the index.html file on live server:
 
 ## Screenshots
 
-![Home Page](./Screenshots/screen1.png)
-![My Stylist AI chatbot initialisation](./Screenshots/screen2.gif)
-![Uploading Image for Recommendation of the corresponding outfit items](./Screenshots/screen3.gif)
-![Recommendations](./Screenshots/screen4.png)
-![Style Like a Star Webpage Home Page](./Screenshots/screen5.png)
+![Home Page](./Screenshots/Screen1.png)
+![My Stylist AI chatbot initialisation](./Screenshots/Screen2.gif)
+![Uploading Image for Recommendation of the corresponding outfit items](./Screenshots/Screen3.gif)
+![Recommendations](./Screenshots/Screen4.png)
+![Style Like a Star Webpage Home Page](./Screenshots/Screen5.png)
 ![Style Lika a Star with AI chatbot for assistance](./Screenshots/record1.mp4)
 ![Overall Webpage with updated webpages with ongoing trens](./Screenshots/RECORD2.mp4)
 ## Tech Stack Used
