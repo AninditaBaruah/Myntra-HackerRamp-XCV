@@ -33,7 +33,7 @@ interaction.
 - Al assistant "My Stylist" would the first technology to be introduced in any online shopping platform
 which would respond to the queries of the customer and suggest the outfits.
 - Time- Efficient :Saves the time spent on choosing the piece of cloth from lakhs of options to a concised amount.
-- Helpful for Gen-Z audience who are patient to search and want fast-fashion.
+- Helpful for Gen-Z audience who are impatient to search and want fast-fashion.
 
 # Instructions for running locally
 
